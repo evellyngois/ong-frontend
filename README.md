@@ -19,14 +19,17 @@ O projeto tem como objetivo apresentar a missão, visão, valores e projetos da 
 
 ## 📂 Estrutura do Projeto
 /
-├── index.html → Página inicial (Missão, Visão e Valores)
-├── projetos.html → Página dos projetos da ONG
-├── cadastro.html → Formulário de cadastro para voluntários
+├── index.html          → Página inicial (Missão, Visão e Valores)
+├── projetos.html       → Página dos projetos da ONG
+├── cadastro.html       → Formulário de cadastro para voluntários
+│
 ├── css/
-│ └── styles.css → Arquivo principal de estilo
+│   └── styles.css      → Arquivo principal de estilo
+│
 ├── js/
-│ └── main.js → Script com validação e mensagem de sucesso
-└── img/ → Imagens utilizadas no site
+│   └── main.js         → Script com validação e mensagem de sucesso
+│
+└── img/                → Imagens utilizadas no site
 
 ---
 
